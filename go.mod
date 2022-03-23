@@ -1,3 +1,3 @@
-module vehicle-rating
+module golang-advanced-branching
 
-go 1.13
+go 1.17
